@@ -14,6 +14,8 @@ pip install -r requirements.txt
 ```
 streamlit run app/main.py
 ```
+e necessario criar um ambiente virtual
+
 O app abrirá no navegador.
 
 #Integrantes do grupo:
