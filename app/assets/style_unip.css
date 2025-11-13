@@ -1,0 +1,6 @@
+/* UNIP theme: blue/yellow/red accents */
+.card{background:linear-gradient(180deg,#182a92,#182888);border-left:8px solid #ffef09;padding:12px;border-radius:8px;}
+.muted{color:#ffffff;}
+h1 {
+  color: #ffffff !important;
+}

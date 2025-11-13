@@ -1,0 +1,6 @@
+/* Light theme */
+.card{background:linear-gradient(180deg,#fbfbff,#f7fff6);border-radius:12px;padding:12px;margin-bottom:12px;}
+.muted{color:#6b7280;font-size:0.95rem;}
+h1 {
+  color: #000000 !important;
+}

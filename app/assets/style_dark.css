@@ -1,0 +1,4 @@
+/* Dark theme */
+body { background-color:#0b0f14; color:#e6eef6; }
+.card{background:#0f1720;border-radius:12px;padding:12px;margin-bottom:12px;color:#e6eef6;}
+.muted{color:#94a3b8;}
