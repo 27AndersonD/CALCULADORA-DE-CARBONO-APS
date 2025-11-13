@@ -16,4 +16,18 @@ streamlit run app/main.py
 ```
 O app abrirá no navegador.
 
-Este pacote foi gerado automaticamente. Contém a estrutura modular pronta para extensão.
+#Integrantes do grupo:
+André Tadeu Moura Bium:CC
+RA: R827968
+
+Apoliana de Jesus Pereira:CC
+RA: H763DI0 
+
+Gabriel Penhoela Junqueira: CC
+RA: h6474d0
+
+Anderson Diogo Condori:CC
+RA: H581516
+
+#Professor orientador:
+Professor Marcos
