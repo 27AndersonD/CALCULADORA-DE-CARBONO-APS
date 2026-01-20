@@ -14,11 +14,12 @@ pip install -r requirements.txt
 ```
 streamlit run app/main.py
 ```
-e necessario criar um ambiente virtual
-
-O app abrirá no navegador.
 
 #Integrantes do grupo:
+
+Anderson Diogo Condori:CC
+RA: H581516
+
 André Tadeu Moura Bium:CC
 RA: R827968
 
@@ -27,9 +28,6 @@ RA: H763DI0
 
 Gabriel Penhoela Junqueira: CC
 RA: h6474d0
-
-Anderson Diogo Condori:CC
-RA: H581516
 
 #Professor orientador:
 Professor Marcos
